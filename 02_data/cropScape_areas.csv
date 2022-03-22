@@ -1,0 +1,256 @@
+VALUE,CLASS_NAME,Category
+0,Background,N
+1,Corn,C
+2,Cotton,C
+3,Rice,R
+4,Sorghum,C
+5,Soybeans,C
+6,Sunflower,C
+7, ,N
+8, ,N
+9, ,N
+10,Peanuts,C
+11,Tobacco,C
+12,Sweet Corn,C
+13,Pop or Orn Corn,C
+14,Mint,C
+15, ,N
+16, ,N
+17, ,N
+18, ,N
+19, ,N
+20, ,N
+21,Barley,C
+22,Durum Wheat,C
+23,Spring Wheat,C
+24,Winter Wheat,C
+25,Other Small Grains,C
+26,Dbl Crop WinWht/Soybeans,C
+27,Rye,C
+28,Oats,C
+29,Millet,C
+30,Speltz,C
+31,Canola,C
+32,Flaxseed,C
+33,Safflower,C
+34,Rape Seed,C
+35,Mustard,C
+36,Alfalfa,C
+37,Other Hay/Non Alfalfa,C
+38,Camelina,C
+39,Buckwheat,C
+40, ,N
+41,Sugarbeets,C
+42,Dry Beans,C
+43,Potatoes,C
+44,Other Crops,C
+45,Sugarcane,C
+46,Sweet Potatoes,C
+47,Misc Vegs & Fruits,C
+48,Watermelons,C
+49,Onions,C
+50,Cucumbers,C
+51,Chick Peas,C
+52,Lentils,C
+53,Peas,C
+54,Tomatoes,C
+55,Caneberries,T
+56,Hops,C
+57,Herbs,C
+58,Clover/Wildflowers,C
+59,Sod/Grass Seed,C
+60,Switchgrass,C
+61,Fallow/Idle Cropland,I
+62, ,N
+63,Forest,O
+64,Shrubland,O
+65,Barren,O
+66,Cherries,T
+67,Peaches,T
+68,Apples,T
+69,Grapes,C
+70,Christmas Trees,T
+71,Other Tree Crops,T
+72,Citrus,T
+73, ,N
+74,Pecans,T
+75,Almonds,T
+76,Walnuts,T
+77,Pears,T
+78, ,N
+79, ,N
+80, ,N
+81,Clouds/No Data,N
+82,Developed,U
+83,Water,W
+84, ,N
+85, ,N
+86, ,N
+87,Wetlands,W
+88,Nonag/Undefined,N
+89, ,N
+90, ,N
+91, ,N
+92,Aquaculture,N
+93, ,N
+94, ,N
+95, ,N
+96, ,N
+97, ,N
+98, ,N
+99, ,N
+100, ,N
+101, ,N
+102, ,N
+103, ,N
+104, ,N
+105, ,N
+106, ,N
+107, ,N
+108, ,N
+109, ,N
+110, ,N
+111,Open Water,W
+112,Perennial Ice/Snow,N
+113, ,N
+114, ,N
+115, ,N
+116, ,N
+117, ,N
+118, ,N
+119, ,N
+120, ,N
+121,Developed/Open Space,U
+122,Developed/Low Intensity,U
+123,Developed/Med Intensity,U
+124,Developed/High Intensity,U
+125, ,N
+126, ,N
+127, ,N
+128, ,N
+129, ,N
+130, ,N
+131,Barren,O
+132, ,N
+133, ,N
+134, ,N
+135, ,N
+136, ,N
+137, ,N
+138, ,N
+139, ,N
+140, ,N
+141,Deciduous Forest,O
+142,Evergreen Forest,O
+143,Mixed Forest,O
+144, ,N
+145, ,N
+146, ,N
+147, ,N
+148, ,N
+149, ,N
+150, ,N
+151, ,N
+152,Shrubland,O
+153, ,N
+154, ,N
+155, ,N
+156, ,N
+157, ,N
+158, ,N
+159, ,N
+160, ,N
+161, ,N
+162, ,N
+163, ,N
+164, ,N
+165, ,N
+166, ,N
+167, ,N
+168, ,N
+169, ,N
+170, ,N
+171, ,N
+172, ,N
+173, ,N
+174, ,N
+175, ,N
+176,Grass/Pasture,O
+177, ,N
+178, ,N
+179, ,N
+180, ,N
+181, ,N
+182, ,N
+183, ,N
+184, ,N
+185, ,N
+186, ,N
+187, ,N
+188, ,N
+189, ,N
+190,Woody Wetlands,O
+191, ,N
+192, ,N
+193, ,N
+194, ,N
+195,Herbaceous Wetlands,W
+196, ,N
+197, ,N
+198, ,N
+199, ,N
+200, ,N
+201, ,N
+202, ,N
+203, ,N
+204,Pistachios,T
+205,Triticale,C
+206,Carrots,C
+207,Asparagus,C
+208,Garlic,C
+209,Cantaloupes,C
+210,Prunes,C
+211,Olives,T
+212,Oranges,T
+213,Honeydew Melons,C
+214,Broccoli,C
+215, ,N
+216,Peppers,C
+217,Pomegranates,T
+218,Nectarines,T
+219,Greens,C
+220,Plums,T
+221,Strawberries,T
+222,Squash,C
+223,Apricots,T
+224,Vetch,C
+225,Dbl Crop WinWht/Corn,C
+226,Dbl Crop Oats/Corn,C
+227,Lettuce,C
+228, ,N
+229,Pumpkins,C
+230,Dbl Crop Lettuce/Durum Wht,C
+231,Dbl Crop Lettuce/Cantaloupe,C
+232,Dbl Crop Lettuce/Cotton,C
+233,Dbl Crop Lettuce/Barley,C
+234,Dbl Crop Durum Wht/Sorghum,C
+235,Dbl Crop Barley/Sorghum,C
+236,Dbl Crop WinWht/Sorghum,C
+237,Dbl Crop Barley/Corn,C
+238,Dbl Crop WinWht/Cotton,C
+239,Dbl Crop Soybeans/Cotton,C
+240,Dbl Crop Soybeans/Oats,C
+241,Dbl Crop Corn/Soybeans,C
+242,Blueberries,C
+243,Cabbage,C
+244,Cauliflower,C
+245,Celery,C
+246,Radishes,C
+247,Turnips,C
+248,Eggplants,C
+249,Gourds,C
+250,Cranberries,N
+251, ,N
+252, ,N
+253, ,N
+254,Dbl Crop Barley/Soybeans,C
